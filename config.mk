@@ -17,8 +17,6 @@
 
 # product/app
 PRODUCT_PACKAGES += \
-    CalculatorGooglePrebuilt \
-    CalendarGooglePrebuilt \
     LocationHistoryPrebuilt \
     SoundPickerPrebuilt
 
