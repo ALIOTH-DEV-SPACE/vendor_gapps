@@ -17,6 +17,8 @@
 
 # product/app
 PRODUCT_PACKAGES += \
+    GoogleContacts \
+    GoogleContactsSyncAdapter \
     LocationHistoryPrebuilt \
     SoundPickerPrebuilt
 
