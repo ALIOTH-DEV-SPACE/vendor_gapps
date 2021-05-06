@@ -20,8 +20,7 @@ PRODUCT_PACKAGES += \
     GoogleContacts \
     GoogleContactsSyncAdapter \
     LocationHistoryPrebuilt \
-    MarkupGoogle \
-    SoundPickerPrebuilt
+    MarkupGoogle
 
 # product/priv-app
 PRODUCT_PACKAGES += \
